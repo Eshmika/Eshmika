@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eshmika&label=Profile%20views&color=0e75b6&style=flat" alt="eshmika" />  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" /></p> 
 
-<table width="100%">
+<table align="center">
 <tr>
 <td align="left">
 
