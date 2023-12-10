@@ -1,12 +1,14 @@
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<846240406589014026>)
-
 <h1 align="center">Hi 👋, I'm Eshmika Hettiarachchi</h1>
 <h3 align="center">Programming is the art of telling another human being what one wants the computer to do.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eshmika&label=Profile%20views&color=0e75b6&style=flat" alt="eshmika" />  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" /></p> 
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<table width="100%">
+<tr>
+<td align="left">
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=846240406589014026)
+  
 - 🌱 I’m currently learning **JAVA**
 
 - 🧑‍🎓 I’m an Undergraduate **at SLIIT**
@@ -14,8 +16,13 @@
 - 📫 How to reach me **eshmika2019@gmail.com**
 
 - ⚡ Fun fact **I am Peppu**
-
-
+</td>
+<td>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+</td>
+</tr>
+</table> 
+  
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
