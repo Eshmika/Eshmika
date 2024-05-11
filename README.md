@@ -7,7 +7,7 @@
 <tr>
 <td align="left">
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=846240406589014026)
+<!--![My Discord](https://discord-readme-badge.vercel.app/api?id=846240406589014026)-->
   
 - 🌱 I’m currently learning **JAVA**
 
