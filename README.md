@@ -7,6 +7,7 @@
 <tr>
 <td align="left">
 
+https://camo.githubusercontent.com/36cd3e617506e6a445ccc7dd19ba83e8a7b483f618b94d91f5c94cfa89156a49/68747470733a2f2f6c616e796172642e636e7261642e6465762f6170692f343530383936383132323337333839383234
 <!--![My Discord](https://discord-readme-badge.vercel.app/api?id=846240406589014026)-->
   
 - 🌱 I’m currently learning **JAVA**
