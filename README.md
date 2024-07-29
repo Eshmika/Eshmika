@@ -8,6 +8,7 @@
 <td align="left">
 
 <!--![My Discord](https://discord-readme-badge.vercel.app/api?id=846240406589014026)-->
+[![Discord Presence](https://lanyard.cnrad.dev/api/846240406589014026)](https://discord.com/users/846240406589014026)
   
 - 🌱 I’m currently learning **JAVA**
 
