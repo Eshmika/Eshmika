@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eshmika&label=Profile%20views&color=0e75b6&style=flat" alt="eshmika" />  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" /></p> 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/846240406589014026)](https://discord.com/users/846240406589014026)
-
 <table align="center">
 <tr>
 <td align="left">
@@ -17,6 +15,9 @@
 - 📫 How to reach me **eshmika2019@gmail.com**
 
 - ⚡ Fun fact **I am Peppu**
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/846240406589014026)](https://discord.com/users/846240406589014026)
+
 </td>
 <td>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
