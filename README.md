@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I am Peppu**
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/846240406589014026?theme=light&bg=809ecf&hideActivity=whenNotUsed&hideSpotify=true)](https://discord.com/users/846240406589014026)
+[![Discord Presence](https://lanyard.cnrad.dev/api/846240406589014026?theme=light&bg=809ecf&hideActivity=whenNotUsed)](https://discord.com/users/846240406589014026)
 
 </td>
 <td>
@@ -68,10 +68,6 @@
 </tr>
 </table>
 
-## 🎶 <b> Vibing to </b>
-<br>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wno396yhg6zdlz9gol28ohbtr&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
