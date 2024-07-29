@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I am Peppu**
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/846240406589014026)](https://discord.com/users/846240406589014026?bg=:#03fcb6)
+[![Discord Presence](https://lanyard.cnrad.dev/api/846240406589014026?bg=:#03fcb6)](https://discord.com/users/846240406589014026)
 
 </td>
 <td>
