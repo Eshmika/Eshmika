@@ -2,14 +2,13 @@
 <h3 align="center">Programming is the art of telling another human being what one wants the computer to do.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eshmika&label=Profile%20views&color=0e75b6&style=flat" alt="eshmika" />  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" /></p> 
+[![Discord Presence](https://lanyard.cnrad.dev/api/846240406589014026)](https://discord.com/users/846240406589014026)
 
 <table align="center">
 <tr>
 <td align="left">
 
-<!--![My Discord](https://discord-readme-badge.vercel.app/api?id=846240406589014026)-->
-[![Discord Presence](https://lanyard.cnrad.dev/api/846240406589014026)](https://discord.com/users/846240406589014026)
-  
+
 - 🌱 I’m currently learning **JAVA**
 
 - 🧑‍🎓 I’m an Undergraduate **at SLIIT**
