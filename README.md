@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 🧑‍🎓 I’m an Undergraduate **at SLIIT**
+- 🧑‍🎓 I’m an Graduated **at SLIIT**
 
 - 📫 How to reach me **eshmika2019@gmail.com**
 
